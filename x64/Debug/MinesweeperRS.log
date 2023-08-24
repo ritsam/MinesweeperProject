@@ -1,0 +1,190 @@
+﻿  main.cpp
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(80,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(81,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(243,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(489,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(490,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(845,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(846,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(847,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(896,123): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(896,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(900,123): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(900,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(904,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(904,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(909,89): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(910,75): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(934,134): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(934,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(942,132): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(942,115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(952,128): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(952,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(966,134): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(966,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(967,76): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(968,80): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(983,88): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(984,92): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1005,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1006,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1025,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1026,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1036,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1037,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1068,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1069,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1079,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1080,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1091,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1092,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1320,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1325,89): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1331,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1372,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1377,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1387,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1392,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ritik\MinesweeperRS\MinesweeperRS\main.cpp(1408,30): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  MinesweeperRS.vcxproj -> C:\Users\ritik\MinesweeperRS\x64\Debug\MinesweeperRS.exe
